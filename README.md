@@ -38,9 +38,6 @@ cd heart-disease-predictor
 
 
 Sample Output
-lua
-Copy
-Edit
 Model Accuracy: 94.57%
 
 Classification Report:
